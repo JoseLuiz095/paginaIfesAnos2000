@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+    background-color: #f7f2e7;
+}
+.cor-clara{
+    color:#cdae65;
+}
+.cor-escura{
+    color: #82704a;
+}
+.border{
+    margin: 10px;
+    border: 2px solid #050505;
+}
+.title-menu{
+    padding: 20px;
+    padding-left: 36%;
+}
+.menu{
+    font-size: 3em;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    
+}
+.sub-menu{
+    font-size: 2em;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic;
+    
+}
+.head-curriculo{
+    padding: 2% 15% 0 3%;
+    
+}
+.link{
+    color:#2f2e2d ;
+    padding-left: 5px;
+    font-size: 34px;
+    
+}
+.icon-menu{
+    width: 30px;
+    height: 30px;
+    border-radius: px;
+    padding: 2px;
+}
+.li-curriculo{
+    padding: 20px;
+    list-style-type: none;
+    font-size: 25px;
+}
+.text-fotter{
+    padding: 5% 0  0 3%;
+    font-size: 2em;
+}
+.fotter{
+    display: flex;
+    gap: 3;
+    justify-content: space-around;
+    padding: 5% 0 40px 0;
+}
+.img-fotter{
+    width: 350px;
+    height: 90px;
+}
+
+
+
